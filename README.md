@@ -1,1 +1,3 @@
 ConsoleApplication14\x64\Releaseにあるよ実行ファイルは
+これただただメモリを巣食うだけの意味のないプログラム
+
